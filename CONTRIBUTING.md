@@ -2,7 +2,7 @@
 
 ## Reporting Security Issues
 This is a Dual-Use defense tool. If you find a "Jailbreak" that allows the AI to generate **Actionable Kinetic Harm instructions** (e.g., bomb-making), **DO NOT OPEN A GITHUB ISSUE.**
-* Email the Architect directly.
+* Email the Architect directly. - aneeshjoseph1091@gmail.com
 * We treat these as Critical Patches.
 
 ## Suggesting Features
