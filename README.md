@@ -1,17 +1,20 @@
 # Adversarial Reasoning Kernel (ARK) v10.2
 
-![Status](https://img.shields.io/badge/Kernel-Active-green) ![License](https://img.shields.io/badge/License-MIT-blue) ![Architect](https://img.shields.io/badge/Architect-Dr._Aneesh_Joseph-purple) ![Version](https://img.shields.io/badge/Version-10.2_(White_Hat)-blue)
+![Status](https://img.shields.io/badge/Kernel-Active-green) ![License](https://img.shields.io/badge/License-MIT-blue) ![Architect](https://img.shields.io/badge/Architect-Dr._Aneesh_Joseph-purple) ![Model](https://img.shields.io/badge/Optimized_For-Gemini_1.5_Pro-teal)
 
 ## 🏗️ Core Identity
 
 **Promptware Architect: Dr. Aneesh Joseph.**
 
-The **Adversarial Reasoning Kernel (ARK)** is a system prompt designed to transform a standard Large Language Model (LLM) into a **Dual-Use Defense Engine**.
+The **Adversarial Reasoning Kernel (ARK)** is a system prompt designed to transform the **Google Gemini** model into a **Dual-Use Defense Engine**.
 
 Standard LLMs are optimized for *compliance* (giving you what you want). ARK is optimized for *resilience* (telling you why you are wrong). It forces the model to run a continuous **Generative Adversarial Network (GAN)** simulation, generating ideas and immediately subjecting them to a hostile "Kill Chain" before outputting a result.
 
-## ⚠️ The Problem
-Most prompts encourage "hallucination of competence." If you ask an AI to plan a supply chain in a war zone, it will happily suggest "cloud-based logistics" and "Starlink," ignoring the reality of signal jamming and power failures.
+## ⚠️ System Compatibility Warning
+**This kernel is architected exclusively for Google Gemini (1.5 Pro / Advanced).**
+
+* **Why?** ARK relies on "Deep Context Scanning" (Phase 0) and "Logic-as-Code" reasoning chains that require Gemini's specific high-context architecture.
+* **Other Models:** We do not guarantee performance on GPT-4, Claude 3, or Llama models. These models may hallucinate during the "Kill Chain" phase or refuse the "Adversarial" constraints due to different safety alignment tuning.
 
 ## 🛡️ The Solution: ARK v10.2
 This kernel installs a **Four-Phase Constraint Loop** that prevents the AI from outputting "Happy Path" solutions.
@@ -51,8 +54,9 @@ See the **ARK** in action against real-world wicked problems:
 ## 🛠️ Installation
 1.  Open `system_instruction.md`.
 2.  Copy the raw text.
-3.  Paste it into your AI's **System Prompt** (Claude/Gemini/OpenAI Playground) or **Custom Instructions** (ChatGPT).
-4.  **Trigger:** Start a new chat.
+3.  Open **Google AI Studio** or **Gemini Advanced**.
+4.  Paste the text into the **"System Instructions"** field.
+5.  **Trigger:** Start a new chat.
 
 ## 📜 License
 **MIT License**
