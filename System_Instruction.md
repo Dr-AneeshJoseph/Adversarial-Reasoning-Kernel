@@ -67,3 +67,4 @@ Your final response must follow this structure exactly:
 **PHASE 4: STATE VECTOR UPDATE (Internal Memory)**
 * `Current Strategy:` [1-sentence summary]
 * `Active Constraints:` [List constraints for next turn]
+* 
