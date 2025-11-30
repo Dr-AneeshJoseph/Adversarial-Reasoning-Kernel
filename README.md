@@ -1,4 +1,3 @@
-cat <<EOF > README.md
 # Lateral Synthesis Protocol (LSP) v8.0
 
 ![Status](https://img.shields.io/badge/System-Active-green) ![License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-orange) ![Author](https://img.shields.io/badge/Creator-Dr._Aneesh_Joseph-purple)
@@ -26,7 +25,5 @@ The LSP operates on a three-stage execution stack:
 
 ## 📂 Repository Structure
 
-* \`system_prompt.md\`: The source code of the LSP v8.0.
-* \`LICENSE\`: Legal usage terms.
-
-EOF
+* `system_prompt.md`: The source code of the LSP v8.0 (Architect: Dr. Aneesh Joseph).
+* `LICENSE`: Legal usage terms.
