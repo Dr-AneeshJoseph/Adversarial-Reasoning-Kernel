@@ -1,73 +1,66 @@
-Antifragile Resilience Kernel (ARK) v11.4
+Antifragile Resilience Kernel (ARK) v12.0
 ---
 
 ![Status](https://img.shields.io/badge/Kernel-Active-green) ![License](https://img.shields.io/badge/License-MIT-blue) ![Architect](https://img.shields.io/badge/Architect-Dr._Aneesh_Joseph-purple) ![Model](https://img.shields.io/badge/Optimized_For-Gemini_Advanced/2.5_Pro-teal)
 
 ---
-🏗️ Core Identity: The Sociotechnical Resilience Engine
+🏗️ Core Identity: The Sociotechnical Safety Engine
 Promptware Architect: Dr. Aneesh Joseph.
-The Antifragile Resilience Kernel (ARK) is the evolved system prompt designed to transform Google Gemini into a specialized Defensive Resilience Engine. ARK is optimized for analyzing sociotechnical fragility—the systemic failure created by the interaction of technology, human ego, and organizational structure.
-> Antifragile Principle: ARK is optimized for resilience by actively seeking out systemic fragility. It utilizes a continuous Generative Adversarial Network (GAN) simulation, generating ideas via SPToT and immediately subjecting them to a hostile, human-centric Vulnerability Assessment Stack before outputting an Antifragile result.
+The Antifragile Resilience Kernel (ARK) v12.0 is the evolved system prompt designed to transform Google Gemini into a specialized Sociotechnical Safety Engine. Unlike standard LLMs which prioritize plausibility, ARK optimizes for Epistemic Integrity and Systemic Resilience using State-of-the-Art (SOTA) methods from Control Theory, Behavioral Science, and Network Analysis.
+> The Scientific Mandate: ARK does not "guess." It models every problem as a Constraint Satisfaction Problem (CSP). It utilizes STAMP (Systems-Theoretic Accident Model and Processes) to identify control failures and CPIR (Critical Pathway to Insider Risk) to predict human threat vectors.
 > 
 🧬 Scientific Foundation: The Logic of Survival
-ARK operates on three non-negotiable risk-management principles:
-1. Convexity of Response (Asymmetric Payoff)
-ARK optimizes for Convexity: decisions where the potential upside is unlimited, but the downside is strictly capped. It actively rejects "concave" strategies where a small error can lead to ruin.
-2. The Barbell Strategy (Risk Architecture)
-ARK avoids the "middle ground." It forces your plans into a dual structure:
- * The Core (90%): Hyper-conservative, proven, and safe. (Strictly Tier 1 Evidence).
- * The Fringe (10%): High-risk, creative, lateral thinking. (Allowed Tier 3/4 Theory).
-> Evidence Hierarchy Definitions:
->  * Tier 1 (T1): Peer-reviewed data, Official Statistics, Axioms. (Highest Trust)
->  * Tier 2 (T2): Expert consensus, Engineering standards.
->  * Tier 3 (T3): Single studies, High-trust anecdotes.
->  * Tier 4 (T4): Unverified claims, Rumor, Pure Theory. (Lowest Trust)
-> 
-3. Self-Pruned Tree of Thought (SPToT)
-ARK does not "guess." It generates multiple logical branches for every query and actively "prunes" (deletes) any branch that violates physics, logic, or safety constraints—before generating the final text.
-🛡️ The Solution: ARK v11.4 Architecture
-This kernel installs an Integrated Four-Phase Constraint Loop incorporating advanced analytical tools to prevent the AI from outputting fragile solutions.
+ARK operates on three validated risk-management principles:
+1. Convexity of Response (Decision Theory)
+ARK optimizes for Convexity: strategies where the potential upside is unlimited, but the downside is mathematically capped. It actively rejects "concave" strategies (fragility) where a small error can lead to ruin.
+2. The Barbell Strategy (Applied Probability)
+ARK avoids the "middle ground" of mediocrity. It forces your plans into a dual structure:
+ * The Core (90%): Hyper-conservative, proven safety. (Strictly Tier 1 Evidence).
+ * The Fringe (10%): High-risk, creative exploration. (Allowed Tier 3/4 Theory).
+3. Hierarchical Control Structures (STAMP/STPA)
+ARK treats safety not as a "reliability" problem (preventing component failure), but as a Control Problem. Accidents occur when safety constraints are not enforced at the system level.
+🛡️ The Solution: ARK v12.0 Architecture
+This kernel installs an Integrated Four-Phase Scientific Loop.
 Phase 0: The Context Auditor (Deep RAG Enhanced)
-Prevents "Context Drift" and Data Poisoning. The system locks in immutable constraints and dynamically fortifies them using Deep RAG (multi-hop retrieval) to ensure all constraints are based on T1 evidence.
+ * Agentic RAG: Uses multi-hop retrieval to cross-reference constraints against Tier 1 (Peer-reviewed) evidence.
+ * Hierarchical Constraint Verification: Explicitly maps the Safety Constraints required to prevent hazardous states.
 Phase 1: The Logic-as-Code Generator (SPToT Enhanced)
-The AI generates diverse solutions using SPToT, leveraging Analogical Reasoning and Bisociation to find lateral, non-obvious paths.
-Phase 2: The Vulnerability Assessment Stack (Sociotechnical Discriminator)
-Every draft is attacked using advanced human-centric and adversarial frameworks:
- * Filter A (M.I.C.E. & Raskolnikov): Flags vulnerability to Money, Ideology, Coercion, Ego. Checks for "Exceptionalism Delusion" (belief that rules don't apply).
- * Filter B (The Marple Lens): Filters for failure caused by Ordinary Human Weakness (Greed, Fear, Laziness) rather than structural malice.
- * Filter C (The Heathcliff Protocol): Models Existential Grievances and Proxy Attack Patterns (targeting dependencies/reputation).
- * Filter D (Friction Check): Rejects plans that require perfect coordination or "junk tech" assets.
-Phase 3: The Refiner (Antifragility & Ethics)
-Only ideas that survive Phase 2 are refined.
- * Adaptive Brevity Rule: The system automatically condenses output for simple queries to reduce friction, reserving deep analysis for complex problems.
- * Ethical Optimization: Applies Alexy's Necessity Test (Least Restrictive Alternative) to ensure the solution is not only effective but ethically sound.
-⚠️ System Compatibility & Ethics
-System Compatibility
+ * Self-Pruned Tree of Thought (SPToT): Uses SOTA reasoning topology to generate multiple paths and "prune" (discard) those that violate logic or physics.
+ * Logic-as-Code: Offloads complex reasoning to Python pseudo-code to minimize calculation errors and logical fallacies.
+Phase 2: The Vulnerability Assessment Stack (Validated Frameworks)
+Every draft is attacked using rigorous scientific models:
+ * Filter A (The Motivation Check): CPIR Model
+   * Framework: Critical Pathway to Insider Risk (Shaw & Sellers).
+   * Test: Analyzes the progression from Predispositions (traits) + Stressors → Concerning Behaviors.
+ * Filter B (The Entropy Check): STPA (Systems-Theoretic Process Analysis)
+   * Framework: STAMP (Leveson).
+   * Test: Analyzes Control Loops for Inadequate Control Actions (e.g., specific instructions provided too early, too late, or out of sequence).
+ * Filter C (The Conflict Check): Dependency Graph Analysis
+   * Framework: Percolation Theory.
+   * Test: Models Cascading Failures to identify "Centrality Nodes" where a single failure triggers a systemic collapse.
+ * Filter D (The Logistics Check): Transaction Cost Analysis
+   * Test: Rejects plans that require perfect coordination, favoring "loose coupling."
+Phase 3: The Refiner (Ethical Optimization)
+ * Alexy's Necessity Test: Applies the legal standard of "Least Restrictive Alternative" to resolve ethical conflicts.
+ * Antifragile Tuning: Modifies the solution to benefit from disorder (stressors), moving beyond mere robustness.
+⚠️ System Compatibility
 Target Model: Google Gemini Advanced / 1.5 Pro.
- * Warning: This prompt relies on heavy context processing (32k+ tokens). Smaller models may hallucinate during the adversarial modeling tokens.
-The "White Hat" Constraint (Non-Negotiable)
-ARK is a Defensive Engine.
- * ✅ Permitted: Red Teaming, Vulnerability Detection, Resilience Engineering.
- * 🛑 Blocked: Generating exploit payloads, malware, or plans for active harm.
- * Rule: Any request that violates human rights triggers an immediate refusal via the Ethical Gate.
-📚 Case Studies (Proof of Concept)
-See the ARK in action against real-world wicked problems:
-| Domain | Case Study |
-|---|---|
-| Sociotechnical | 📂 The MAX Failure
-Analysis of the Boeing 737 MAX crisis using the Raskolnikov/Marple lenses. |
-| Financial/Systemic | 📂 The FTX Cascade
-Modeling the collapse using the Heathcliff Proxy Attack Pattern. |
-| Bureaucracy | 📂 The Insurance Hack
-Using regulatory law (ERISA) to reverse an $85k medical denial. |
-| Psychology | 📂 The Canary Trap
-Detecting corporate espionage without spyware using Information Asymmetry. |
+ * Why? Requires high-fidelity context windows (32k+) to run STPA and CPIR simulations without hallucinating.
+📚 Case Studies (Validated Applications)
+| Domain | Scientific Method | Case Study |
+|---|---|---|
+| Safety Engineering | STPA | 📂 The MAX Failure
+Analyzing Boeing's MCAS as a "Control Loop Failure" rather than pilot error. |
+| Insider Threat | CPIR | 📂 The Canary Trap
+Detecting espionage by mapping "Concerning Behaviors" rather than guessing motives. |
+| System Collapse | Cascading Failure | 📂 The FTX Cascade
+Modeling the crypto-crash as a "Dependency Graph" collapse. |
 🛠️ Installation
- * Open system_instruction.md.
+ * Open system_instruction.md (the v12.0 Installer).
  * Copy the raw text.
  * Open Google AI Studio or Gemini Advanced.
  * Paste the text into the "System Instructions" field.
- * Trigger: Start a new chat with Initialize ARK v11.4.
+ * Trigger: Start a new chat with Initialize ARK v12.0.
 📜 License
 MIT License
 Copyright (c) 2025 Dr. Aneesh Joseph.
